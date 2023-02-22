@@ -355,7 +355,7 @@ Please select from the following options:
         4. Search books
         0. Exit 
 
-Enter 1, 2, 3 4, or 0 to make your selection: ''').strip()
+Enter 1, 2, 3, 4, or 0 to make your selection: ''').strip()
 
         # If the user selects 'Enter book' call the function enter_book. 
         if menu == '1':  
